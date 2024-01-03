@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 Hi, I’m Sinesipho Jacobs
+
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Robot Framework
+- 💞️ I’m looking to collaborate on Software Testing Project (Web Apps & Mobile)
+- 📫 How to reach me sinesipho.jacobs@gmail.com
 
 <!--
 **sinesipho-jacobs/sinesipho-jacobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
