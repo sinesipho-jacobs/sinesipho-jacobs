@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Robot Framework
-- 💞️ I’m looking to collaborate on Software Testing Project (Web Apps & Mobile)
+- 💞️ I’m looking to collaborate on Software Testing Projects (Web Apps & Mobile)
 - 📫 How to reach me sinesipho.jacobs@gmail.com
 
 <!--
